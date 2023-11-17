@@ -1,5 +1,5 @@
 build:
   docker:
-    web: Dockerfile
+    worker: Dockerfile
 run:
-  web: start accept --token $TOKEN
+  worker: start accept --token $TOKEN
