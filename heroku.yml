@@ -2,4 +2,4 @@ build:
   docker:
     worker: Dockerfile
 run:
-  worker: start accept --token $TOKEN
+  worker: start accept --token fGUfrFq7g61bF2KXTfPVE2gHELfCXOdufZx482zwdCU=
